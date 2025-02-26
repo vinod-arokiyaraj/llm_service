@@ -1,0 +1,4 @@
+{
+    "default_model": "./model/facebook/bart-large-cnn",
+    "port": 8000
+}
